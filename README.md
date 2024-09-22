@@ -1,5 +1,5 @@
 # Enlarge-Web
-Enlarge-Web是Enlarge系统PC浏览器操作手机的前端界面项目,此项目基于Vue.js
+Enlarge-Web is a front-end interface project for Enlarge system PC browser to operate mobile phones. This project is based on Vue.js
 
 ## Project setup
 ```
